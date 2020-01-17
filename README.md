@@ -6,4 +6,3 @@ Webpack bundled React app that displays most popular GitHub repos sorted by prog
 
 * Makes use of React Hooks (useState, useEffect, useRef, useReducer, useContext), React Context, Class Fields Syntax, React.lazy + React.Suspense for Code Splitting, GitHub API, Webpack, etc.
 * Features: Light/Dark Mode + React Icons
-# pop-repos-hooks
